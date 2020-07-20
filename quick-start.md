@@ -1,3 +1,5 @@
+https://dredd.org/en/latest/quickstart.html#quickstart
+
 - Create api-description.yml
     ```
     swagger: '2.0'
